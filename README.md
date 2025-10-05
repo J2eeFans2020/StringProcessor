@@ -1,6 +1,7 @@
 StringProcess
 
 **Project Overview**
+```
 StringProcess is a string conversion project developed based on Java 11 version. Project details:
 For a given string that only contains alphabet characters a-z, if 3 or more consecutive
 characters are identical, remove them from the string. Repeat this process until
@@ -16,6 +17,8 @@ ccc -> b
 bbb -> a
 Input: abcccbad
 Output: -> abbbad, ccc is replaced by b -> aaad, bbb is replaced by a -> d
+```
+
 
 **Project Source Code**
 |     |  Backend Source Code  |
