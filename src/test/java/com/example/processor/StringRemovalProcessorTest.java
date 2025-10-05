@@ -3,7 +3,7 @@ package com.example.processor;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class RemovalProcessorTest {
+class StringRemovalProcessorTest {
 
     private final StringProcessor processor = new StringRemovalProcessor();
 
